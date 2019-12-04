@@ -14,7 +14,7 @@ class SonarDAOTest {
     @BeforeEach
     void setUp() {
          //soanrqueb服务地址
-        dao = new SonarDAO("http://10.10.8.12:9000");
+        dao = new SonarDAO("http://127.0.0.1:9000");
         dao.login();
     }
 

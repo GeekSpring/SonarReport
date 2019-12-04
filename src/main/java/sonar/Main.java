@@ -17,7 +17,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) throws FileAlreadyExistsException {
         //sonarqube服务地址
-        String baseUrl = "10.10.8.12:9000";
+        String baseUrl = "127.0.0.1:9000";
         String fileName = "index.html";
 
         if (args.length == 1) {
@@ -101,8 +101,8 @@ public class Main {
     // 为git提交用户姓名初始化赋值
     private static HashMap<String, String> mapUserName = new HashMap<String, String>() {
         {
-            put("liyue@fantaike.ai", "李月");
-            put("yangyang_qd@caxins.com", "杨阳");
+            put("liyue", "李月");
+            put("yangyang", "杨阳");
         }
     };
 

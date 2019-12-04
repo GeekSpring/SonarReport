@@ -1,0 +1,1281 @@
+[
+    {
+        "projectName": "bigdata",
+        "users": [],
+        "bugs": {},
+        "vulnerabilities": {},
+        "badsmells": {}
+    },
+    {
+        "projectName": "bigdata-common",
+        "users": [
+            "zhangminke",
+            "zhaikaishun",
+            "tangjianzhong",
+            "yuzhixiong",
+            "dinglei",
+            "xuquanmin",
+            "kuangxiaolin",
+            "xushihong",
+            "caohao",
+            "xuemengran"
+        ],
+        "bugs": {
+            "zhangminke": {
+                "MAJOR": 6,
+                "MINOR": 0,
+                "INFO": 0,
+                "BLOCKER": 3,
+                "CRITICAL": 0
+            },
+            "zhaikaishun": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tangjianzhong": {
+                "MAJOR": 1,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 1,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "dinglei": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MAJOR": 1,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MAJOR": 21,
+                "MINOR": 1,
+                "INFO": 0,
+                "BLOCKER": 29,
+                "CRITICAL": 1
+            },
+            "xushihong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "caohao": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "vulnerabilities": {
+            "zhangminke": {
+                "MINOR": 9,
+                "MAJOR": 0,
+                "INFO": 0,
+                "BLOCKER": 1,
+                "CRITICAL": 1
+            },
+            "zhaikaishun": {
+                "MINOR": 5,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tangjianzhong": {
+                "MINOR": 7,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 2,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "dinglei": {
+                "MINOR": 1,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MINOR": 1,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 99,
+                "MAJOR": 0,
+                "INFO": 0,
+                "BLOCKER": 1,
+                "CRITICAL": 1
+            },
+            "xushihong": {
+                "MINOR": 2,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "caohao": {
+                "MINOR": 17,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "badsmells": {
+            "zhangminke": {
+                "MINOR": 19,
+                "MAJOR": 17,
+                "INFO": 0,
+                "CRITICAL": 6,
+                "BLOCKER": 0
+            },
+            "zhaikaishun": {
+                "MAJOR": 3,
+                "MINOR": 1,
+                "INFO": 1,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tangjianzhong": {
+                "MAJOR": 27,
+                "MINOR": 10,
+                "INFO": 0,
+                "CRITICAL": 6,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MAJOR": 2,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "dinglei": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MAJOR": 3,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 4,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 328,
+                "MAJOR": 266,
+                "INFO": 3,
+                "CRITICAL": 54,
+                "BLOCKER": 8
+            },
+            "xushihong": {
+                "MINOR": 15,
+                "MAJOR": 5,
+                "INFO": 0,
+                "CRITICAL": 1,
+                "BLOCKER": 0
+            },
+            "caohao": {
+                "MAJOR": 12,
+                "MINOR": 8,
+                "INFO": 0,
+                "CRITICAL": 1,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MAJOR": 3,
+                "MINOR": 2,
+                "INFO": 0,
+                "CRITICAL": 1,
+                "BLOCKER": 0
+            }
+        }
+    },
+    {
+        "projectName": "bigdata-hadoop-tools",
+        "users": [
+            "zhangminke",
+            "zhaikaishun",
+            "tangjianzhong",
+            "yuzhixiong",
+            "dinglei",
+            "kuangxiaolin",
+            "xushihong",
+            "caohao",
+            "xuemengran"
+        ],
+        "bugs": {
+            "zhangminke": {
+                "MAJOR": 4,
+                "MINOR": 0,
+                "INFO": 0,
+                "BLOCKER": 3,
+                "CRITICAL": 0
+            },
+            "zhaikaishun": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tangjianzhong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "dinglei": {
+                "MAJOR": 2,
+                "MINOR": 1,
+                "INFO": 0,
+                "BLOCKER": 8,
+                "CRITICAL": 0
+            },
+            "kuangxiaolin": {
+                "MAJOR": 20,
+                "MINOR": 10,
+                "INFO": 0,
+                "BLOCKER": 55,
+                "CRITICAL": 1
+            },
+            "xushihong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "caohao": {
+                "MAJOR": 1,
+                "MINOR": 0,
+                "INFO": 0,
+                "BLOCKER": 2,
+                "CRITICAL": 0
+            },
+            "xuemengran": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "vulnerabilities": {
+            "zhangminke": {
+                "MINOR": 3,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "zhaikaishun": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tangjianzhong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "dinglei": {
+                "MINOR": 5,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 160,
+                "MAJOR": 0,
+                "INFO": 0,
+                "BLOCKER": 1,
+                "CRITICAL": 1
+            },
+            "xushihong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "caohao": {
+                "MINOR": 15,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "badsmells": {
+            "zhangminke": {
+                "MAJOR": 31,
+                "MINOR": 3,
+                "INFO": 0,
+                "CRITICAL": 25,
+                "BLOCKER": 0
+            },
+            "zhaikaishun": {
+                "MAJOR": 2,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 1,
+                "BLOCKER": 0
+            },
+            "tangjianzhong": {
+                "MAJOR": 2,
+                "MINOR": 1,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MAJOR": 1,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "dinglei": {
+                "MINOR": 15,
+                "MAJOR": 4,
+                "INFO": 0,
+                "CRITICAL": 2,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MAJOR": 480,
+                "MINOR": 418,
+                "INFO": 14,
+                "CRITICAL": 91,
+                "BLOCKER": 0
+            },
+            "xushihong": {
+                "MINOR": 3,
+                "MAJOR": 1,
+                "INFO": 0,
+                "CRITICAL": 2,
+                "BLOCKER": 0
+            },
+            "caohao": {
+                "MINOR": 61,
+                "MAJOR": 37,
+                "INFO": 0,
+                "CRITICAL": 11,
+                "BLOCKER": 6
+            },
+            "xuemengran": {
+                "MAJOR": 13,
+                "MINOR": 7,
+                "INFO": 0,
+                "CRITICAL": 4,
+                "BLOCKER": 0
+            }
+        }
+    },
+    {
+        "projectName": "bigdata-mroxdrmerge-api",
+        "users": [
+            "kuangxiaolin",
+            "xuemengran"
+        ],
+        "bugs": {
+            "kuangxiaolin": {
+                "MINOR": 22,
+                "MAJOR": 11,
+                "INFO": 0,
+                "BLOCKER": 50,
+                "CRITICAL": 0
+            },
+            "xuemengran": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "vulnerabilities": {
+            "kuangxiaolin": {
+                "MINOR": 283,
+                "MAJOR": 0,
+                "INFO": 0,
+                "BLOCKER": 1,
+                "CRITICAL": 1
+            },
+            "xuemengran": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "badsmells": {
+            "kuangxiaolin": {
+                "MINOR": 420,
+                "MAJOR": 351,
+                "INFO": 10,
+                "CRITICAL": 119,
+                "BLOCKER": 1
+            },
+            "xuemengran": {
+                "MAJOR": 2,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        }
+    },
+    {
+        "projectName": "bigdata-mroxdrmerge-core",
+        "users": [
+            "xuchong",
+            "lanjiancai",
+            "zhaikaishun",
+            "yuliling",
+            "tanpeng",
+            "yuzhixiong",
+            "hederu",
+            "xuquanmin",
+            "kuangxiaolin",
+            "yimengyuan",
+            "xushihong",
+            "xuemengran"
+        ],
+        "bugs": {
+            "xuchong": {
+                "MAJOR": 3,
+                "MINOR": 1,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "lanjiancai": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "zhaikaishun": {
+                "MAJOR": 1,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuliling": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tanpeng": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 3,
+                "MAJOR": 2,
+                "INFO": 0,
+                "BLOCKER": 2,
+                "CRITICAL": 1
+            },
+            "hederu": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "BLOCKER": 4,
+                "CRITICAL": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 50,
+                "MAJOR": 28,
+                "INFO": 0,
+                "BLOCKER": 15,
+                "CRITICAL": 0
+            },
+            "yimengyuan": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xushihong": {
+                "MINOR": 2,
+                "MAJOR": 1,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MINOR": 1,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "vulnerabilities": {
+            "xuchong": {
+                "MINOR": 43,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "lanjiancai": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "zhaikaishun": {
+                "MINOR": 53,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuliling": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tanpeng": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 112,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "hederu": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 3478,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yimengyuan": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xushihong": {
+                "MINOR": 66,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MINOR": 53,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "badsmells": {
+            "xuchong": {
+                "MINOR": 58,
+                "MAJOR": 29,
+                "INFO": 4,
+                "CRITICAL": 8,
+                "BLOCKER": 0
+            },
+            "lanjiancai": {
+                "MAJOR": 3,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "zhaikaishun": {
+                "MINOR": 221,
+                "MAJOR": 195,
+                "INFO": 6,
+                "CRITICAL": 38,
+                "BLOCKER": 0
+            },
+            "yuliling": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tanpeng": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 186,
+                "MAJOR": 111,
+                "INFO": 12,
+                "CRITICAL": 47,
+                "BLOCKER": 3
+            },
+            "hederu": {
+                "MAJOR": 6,
+                "MINOR": 2,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MINOR": 27,
+                "MAJOR": 23,
+                "INFO": 0,
+                "CRITICAL": 8,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 3921,
+                "MAJOR": 1439,
+                "INFO": 329,
+                "CRITICAL": 1145,
+                "BLOCKER": 43
+            },
+            "yimengyuan": {
+                "MINOR": 7,
+                "MAJOR": 4,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xushihong": {
+                "MAJOR": 112,
+                "MINOR": 62,
+                "INFO": 14,
+                "CRITICAL": 14,
+                "BLOCKER": 1
+            },
+            "xuemengran": {
+                "MAJOR": 95,
+                "MINOR": 56,
+                "INFO": 4,
+                "CRITICAL": 327,
+                "BLOCKER": 0
+            }
+        }
+    },
+    {
+        "projectName": "bigdata-mroxdrmerge-mapr",
+        "users": [
+            "xuchong",
+            "zhaikaishun",
+            "yuliling",
+            "tanpeng",
+            "yuzhixiong",
+            "hederu",
+            "xuquanmin",
+            "kuangxiaolin",
+            "xushihong",
+            "xuemengran"
+        ],
+        "bugs": {
+            "xuchong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "zhaikaishun": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuliling": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tanpeng": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 5,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "hederu": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 13,
+                "MAJOR": 8,
+                "INFO": 0,
+                "BLOCKER": 1,
+                "CRITICAL": 0
+            },
+            "xushihong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MINOR": 2,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "vulnerabilities": {
+            "xuchong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "zhaikaishun": {
+                "MINOR": 2,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuliling": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tanpeng": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 26,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "hederu": {
+                "MINOR": 25,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 154,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xushihong": {
+                "MINOR": 17,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MINOR": 24,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "badsmells": {
+            "xuchong": {
+                "MINOR": 6,
+                "MAJOR": 4,
+                "INFO": 0,
+                "CRITICAL": 2,
+                "BLOCKER": 0
+            },
+            "zhaikaishun": {
+                "MINOR": 19,
+                "MAJOR": 11,
+                "INFO": 4,
+                "CRITICAL": 2,
+                "BLOCKER": 0
+            },
+            "yuliling": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "tanpeng": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MAJOR": 35,
+                "MINOR": 35,
+                "INFO": 6,
+                "CRITICAL": 2,
+                "BLOCKER": 0
+            },
+            "hederu": {
+                "MINOR": 37,
+                "MAJOR": 27,
+                "INFO": 4,
+                "CRITICAL": 6,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MAJOR": 1,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 548,
+                "MAJOR": 466,
+                "INFO": 20,
+                "CRITICAL": 58,
+                "BLOCKER": 1
+            },
+            "xushihong": {
+                "MINOR": 80,
+                "MAJOR": 48,
+                "INFO": 5,
+                "CRITICAL": 5,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MINOR": 74,
+                "MAJOR": 21,
+                "INFO": 0,
+                "CRITICAL": 5,
+                "BLOCKER": 0
+            }
+        }
+    },
+    {
+        "projectName": "bigdata-mroxdrmerge-spark",
+        "users": [
+            "zhaikaishun",
+            "xuquanmin",
+            "kuangxiaolin",
+            "yuzhixiong",
+            "xushihong",
+            "xuemengran"
+        ],
+        "bugs": {
+            "zhaikaishun": {
+                "MAJOR": 1,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MAJOR": 1,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 6,
+                "MAJOR": 5,
+                "INFO": 0,
+                "BLOCKER": 3,
+                "CRITICAL": 0
+            },
+            "xushihong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MAJOR": 8,
+                "MINOR": 1,
+                "INFO": 0,
+                "BLOCKER": 1,
+                "CRITICAL": 0
+            }
+        },
+        "vulnerabilities": {
+            "zhaikaishun": {
+                "MINOR": 2,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 2,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuquanmin": {
+                "MINOR": 1,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 44,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xushihong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MINOR": 9,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "badsmells": {
+            "zhaikaishun": {
+                "MAJOR": 38,
+                "MINOR": 12,
+                "INFO": 2,
+                "CRITICAL": 2,
+                "BLOCKER": 0
+            },
+            "yuzhixiong": {
+                "MINOR": 32,
+                "MAJOR": 9,
+                "INFO": 0,
+                "CRITICAL": 5,
+                "BLOCKER": 2
+            },
+            "xuquanmin": {
+                "MAJOR": 16,
+                "MINOR": 5,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "kuangxiaolin": {
+                "MINOR": 266,
+                "MAJOR": 183,
+                "INFO": 14,
+                "CRITICAL": 40,
+                "BLOCKER": 2
+            },
+            "xushihong": {
+                "MAJOR": 30,
+                "MINOR": 3,
+                "INFO": 0,
+                "CRITICAL": 2,
+                "BLOCKER": 0
+            },
+            "xuemengran": {
+                "MINOR": 75,
+                "MAJOR": 72,
+                "INFO": 3,
+                "CRITICAL": 20,
+                "BLOCKER": 0
+            }
+        }
+    },
+    {
+        "projectName": "bigdata-mroxdrmerge-standalone",
+        "users": [
+            "kuangxiaolin",
+            "xushihong"
+        ],
+        "bugs": {
+            "kuangxiaolin": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xushihong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "vulnerabilities": {
+            "kuangxiaolin": {
+                "MINOR": 65,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            },
+            "xushihong": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "badsmells": {
+            "kuangxiaolin": {
+                "MINOR": 143,
+                "MAJOR": 83,
+                "INFO": 4,
+                "CRITICAL": 12,
+                "BLOCKER": 4
+            },
+            "xushihong": {
+                "MAJOR": 4,
+                "MINOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        }
+    },
+    {
+        "projectName": "hdfs_explorer",
+        "users": [
+            "zhangminke"
+        ],
+        "bugs": {
+            "zhangminke": {
+                "MAJOR": 31,
+                "MINOR": 2,
+                "INFO": 0,
+                "BLOCKER": 60,
+                "CRITICAL": 1
+            }
+        },
+        "vulnerabilities": {
+            "zhangminke": {
+                "MINOR": 103,
+                "MAJOR": 0,
+                "INFO": 0,
+                "BLOCKER": 1,
+                "CRITICAL": 1
+            }
+        },
+        "badsmells": {
+            "zhangminke": {
+                "MINOR": 279,
+                "MAJOR": 186,
+                "INFO": 2,
+                "CRITICAL": 90,
+                "BLOCKER": 4
+            }
+        }
+    },
+    {
+        "projectName": "HdfsManager",
+        "users": [],
+        "bugs": {},
+        "vulnerabilities": {},
+        "badsmells": {}
+    },
+    {
+        "projectName": "rf_automatic_optimization",
+        "users": [
+            "zhangminke"
+        ],
+        "bugs": {
+            "zhangminke": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "vulnerabilities": {
+            "zhangminke": {
+                "MINOR": 0,
+                "MAJOR": 0,
+                "INFO": 0,
+                "CRITICAL": 0,
+                "BLOCKER": 0
+            }
+        },
+        "badsmells": {
+            "zhangminke": {
+                "MAJOR": 6,
+                "MINOR": 2,
+                "INFO": 0,
+                "CRITICAL": 5,
+                "BLOCKER": 1
+            }
+        }
+    }
+]
